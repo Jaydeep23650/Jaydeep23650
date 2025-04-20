@@ -1,24 +1,24 @@
-<h1 align="center">Hey there! I'm Jaydeep Saroj 👋</h1>
-<p align="center">🚀 MERN Stack Developer | 💻 JavaScript Enthusiast | 📚 Node.js Learner</p>
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/8e/62/2f/8e622fce7b45298f2ebac9efb16b2f68.gif" width="100%" alt="Anime Banner">
+</p>
+
+<h1 align="center">Hey! I'm Jaydeep Saroj 👋</h1>
+<p align="center">🚀 Full-Stack Developer | 🧠 Node.js Mastermind | 🎯 Anime + Coding = Life</p>
 
 ---
 
-### 🔥 About Me
+### 💫 About Me
 
-- 🎓 I'm currently learning and building cool stuff with the **MERN stack**
-- 💬 Ask me about anything related to **JavaScript**, **Node.js**, or **MongoDB**
-- 📫 Reach me at: [jaydeepjnvmzp2002@gmail.com](mailto:jaydeepjnvmzp2002@gmail.com)
-- 🌐 Connect with me:
-  [LinkedIn](https://www.linkedin.com/in/jaydeep-saroj-50669323a/) | 
-  [GitHub](https://github.com/Jaydeep23650)
+```bash
+> I turn ☕ into code & dreams into web apps!
+jaydeep@github:~$ whoami
+> MERN Stack Dev | Anime Fan | Backend Beast
 
----
+jaydeep@github:~$ cat goals.txt
+> Become Backend Ninja ⚔️
+> Build SaaS Products 🚀
+> Get Dream Job 💼
 
-### 🛠️ Tech Stack
-
-```js
-Languages: JavaScript, HTML, CSS  
-Backend: Node.js, Express.js  
-Frontend: React.js, Tailwind CSS  
-Database: MongoDB, MongoDB Atlas  
-Tools: Git, GitHub, VS Code, Postman
+jaydeep@github:~$ sudo rm -rf negativity
+> Negativity removed successfully 🔥
