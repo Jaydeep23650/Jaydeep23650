@@ -1,24 +1,17 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/8e/62/2f/8e622fce7b45298f2ebac9efb16b2f68.gif" width="100%" alt="Anime Banner">
-</p>
+<!-- Anime Banner -->
+<div align="center">
+  <img src="https://i.pinimg.com/originals/8e/62/2f/8e622fce7b45298f2ebac9efb16b2f68.gif" alt="Anime Coding Banner" width="100%"/>
+</div>
 
-<h1 align="center">Hey! I'm Jaydeep Saroj 👋</h1>
-<p align="center">🚀 Full-Stack Developer | 🧠 Node.js Mastermind | 🎯 Anime + Coding = Life</p>
+<h1 align="center">👨💻 Kon'nichiwa! I'm Jaydeep Saroj</h1>
+<h3 align="center">🔥 Full-Stack Sorcerer | 🚀 Node.js Ninja | 🎌 Anime + Code Alchemist</h3>
 
 ---
 
-### 💫 About Me
+### 🌀 About Me
 
 ```bash
-> I turn ☕ into code & dreams into web apps!
-jaydeep@github:~$ whoami
-> MERN Stack Dev | Anime Fan | Backend Beast
-
-jaydeep@github:~$ cat goals.txt
-> Become Backend Ninja ⚔️
-> Build SaaS Products 🚀
-> Get Dream Job 💼
-
-jaydeep@github:~$ sudo rm -rf negativity
-> Negativity removed successfully 🔥
+#!/usr/bin/env life
+> while (!succeed) { tryAgain() }
+> if (coffee.isEmpty()) { coffee.refill(100%); }
+> return "Building awesome stuff between anime episodes!";
