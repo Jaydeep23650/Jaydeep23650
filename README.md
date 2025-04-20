@@ -15,63 +15,40 @@
 ---
 
 ### 🌀 **About Me**
+### 🎨 **Frontend Artistry**
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#!/usr/bin/env dev-life
+### 📊 **GitHub Stats**
 
-while [ !$SUCCESS ]; do
-  try_again()
-  make_coffee --level=100%
-done
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&border_radius=4.5)](https://git.io/streak-stats)
 
-# Current Mission: Building the ultimate anime-themed SaaS platform
-# Hobbies: Crunchyroll marathons | Collecting waifu figurines | Debugging while cosplaying
-🛠️ Tech Arsenal
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)](https://github.com/YOUR_USERNAME/github-readme-stats)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true)](https://github.com/YOUR_USERNAME/github-readme-stats)
+
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+
+## 📈 GitHub Stats
+
 <div align="center">
-✨ Language Magic
-JavaScript
-TypeScript
-Python
-Java
 
-⚡ Backend Bushido
-Node.js
-Express.js
-NestJS
-GraphQL
+[![Streak Stats](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=nightowl&border_radius=5)](https://git.io/streak-stats)
 
-🎨 Frontend Artistry
-React
-Next.js
-Tailwind
-Three.js
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=nightowl&hide=roff)](https://github.com/YOUR_USERNAME)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=nightowl&count_private=true&include_all_commits=true)](https://github.com/YOUR_USERNAME)
 
 </div>
-📊 GitHub Stats
-<div align="center">
-GitHub Streak
 
-Top Langs
-
-GitHub Stats
-
-</div>
-🎬 Anime Watchlist
-Current Obsessions	All-Time Favorites	Plan to Watch
-🔥 Jujutsu Kaisen	🎭 Death Note	🪐 Chainsaw Man
-🌌 Demon Slayer	⚔️ Sword Art Online	🌀 Attack on Titan
-🤖 Cyberpunk Edgeruns	🏰 Fullmetal Alchemist	🌸 Your Lie in April
-📫 Let's Collab!
-<div align="center">
-LinkedIn
-Twitter
-Portfolio
-Discord
-
-📧 Dev Mail: jaydeep@dev (just add .com)
-
-</div>
-<div align="center">
-Snake animation
-
-</div><p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=22&duration=4000&pause=1000&color=FF79C6&center=true&vCenter=true&width=435&lines=Keep+calm+and+watch+anime!;Believe+in+the+power+of+nakama!;Not+all+heroes+wear+capes+%F0%9F%A4%A9%F0%9F%92%BB" alt="Anime typing SVG" /> </p> ```
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
