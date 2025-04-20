@@ -7,6 +7,17 @@
 <h3 align="center">🔥 Full-Stack Sorcerer | 🚀 Node.js Ninja | 🎌 Anime + Code Alchemist</h3>
 
 ---
+
+📊 GitHub Stats
+<div align="center">
+GitHub Streak
+
+Top Langs
+
+GitHub Stats
+
+</div>
+
 📫 Let's Collab!
 <div align="center">
 LinkedIn
